@@ -21,7 +21,7 @@ date_format = "Jan 2006"
   title = "Controller’s Office Intern"
   company = "WORLD METEOROLOGICAL ORGANIZATION"
   company_url = ""
-  location = "California"
+  location = "GENEVA, SWITZERLAND"
   date_start = "2020-01-13"
   date_end = ""
   description = """
@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   title = "Research Assistant "
   company = "UNIVERSITY OF CALIFORNIA, DAVIS"
   company_url = ""
-  location = "California"
+  location = "California,Davis,USA"
   date_start = "2019-07-01"
   date_end = "2020-01-01"
   description = """
@@ -47,4 +47,22 @@ date_format = "Jan 2006"
   * Acquired a deep understanding of the poverty trap, and developed a mathematical model on Python to explain it, and then test its validation through diagnosis with real-life data.
 
   """
+  
+  [[experience]]
+  title = "Communication Development Intern "
+  company = "UNICEF"
+  company_url = ""
+  location = "HARARE, ZIMBABWE  "
+  date_start = "2019-01-01"
+  date_end = "2020-03-01"
+  description = """
+  Responsibilities include:
+  * Conducted research in most remote locations in Zimbabwe to identify social issues; proposed ideas and solutions to improve education, skills development and training for young people. 
+  * Authored mission reports on UNICEF website receiving more than 100,000 views. 
+  * Created infographic based on national poll which was shared with the Ministry of Youth
+  * Promoted cholera prevention and treatment with health volunteers and changed long-held social norms and religious beliefs that previously prevented people from ever visiting a hospital 
+  * Helped UNICEF to build connections with Chinese media for advocacy of UNICEF in China.
+
+ """
+
 +++
