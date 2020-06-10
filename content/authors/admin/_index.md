@@ -32,7 +32,7 @@ interest=[ 'Development Economics',
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'ypi@ucdavis.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ypi@ucdavis.edu'  # For a direct email link, use "mailto:test@example.org".
 
 - icon: github
   icon_pack: fab
@@ -54,6 +54,9 @@ user_groups:
 - Visitors
 ---
 
-Graduated from Nanjing University,Economics Department, I work at WORLD METEOROLOGICAL ORGANIZATION currently.I am interested in how institutional and financial innovations could make the difference on the country development and designing program to alleviate the scope of inequality.
+Graduated from Nanjing University, Economics Department, I work at WORLD METEOROLOGICAL ORGANIZATION currently.
+
+I am interested in how institutional and financial innovations could make the difference on the country development and designing program to alleviate the scope of inequality.
+
 Also, I am working on building a society simulator which uses machine learning to mimic the working of the society and predict the impact of the policies.
 
