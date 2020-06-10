@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yulu(Niki) Pi
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: WORLD METEOROLOGICAL ORGANIZATION
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+bio: My research interests include Development Economics, Data-Driven Policy, Text as Data, Information Management and Policy Evaluation .
 
 education:
   courses:
@@ -70,6 +65,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Graduated from Nanjing University,Economics Department, I work at WORLD METEOROLOGICAL ORGANIZATION currently.I am interested in how institutional and financial innovations could make the difference on the country development and designing program to alleviate the scope of inequality.
+Also, I am working on building a society simulator which uses machine learning to mimic the working of the society and predict the impact of the policies.
+Access to my previous project: https://github.com/nikipi
