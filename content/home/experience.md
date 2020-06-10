@@ -28,8 +28,8 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Analyzed the effectiveness of risk management system and provided suggestion on improvement
-  *Communicated with project coordinators to establish a risk repository documenting the learnt lesson from the previous projects.
-  *Delivered reports and training on budget system, procurement, internal control and risk management
+  * Communicated with project coordinators to establish a risk repository documenting the learnt lesson from the previous projects.
+  * Delivered reports and training on budget system, procurement, internal control and risk management
 
   """
 
