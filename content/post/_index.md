@@ -9,16 +9,5 @@ tags:
 summary: A new post
 header:
   caption: Unas burbujitas
-  image: /img/bubbles-wide.jpg
+ 
 ---
-# Heading
-
-This is content
-
-> This is a quote
-
-```
-This is code
-```
-
-![An image](/img/portrait.jpg)
