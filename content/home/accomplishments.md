@@ -19,33 +19,53 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "IBM"
+  organization_url = "https://twitter.com/IBM?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+  title = "Applied Data Science with Python - Level 2"
+  url = ""
+  certificate_url = "https://www.youracclaim.com/badges/1e8fd773-b6d5-49e1-9ebd-cbed25f41b59/linked_in_profile"
+  date_start = ""
+  date_end = ""
+  description = ""
+  
+[[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  title = "Using Python to Access Web Data"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/RBLV7LYE9BXV"
+  date_start = "2020-03-24"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Computational Social Science Methods"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/5EQLL2PWNAHG"
+  date_start = "2020-06-06"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = ""
+  
+  [[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Applied Text Mining in Python"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/THCE7NQ3469S"
+  date_start = "2020-05-12"
+  date_end = ""
+  description = ""
   
 [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  title = "Machine Learning with Python"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = "https://courses.cognitiveclass.ai/certificates/55598caa78bf44e3a8bd240a8fd1d2a5"
+  date_start = "2020-03-21"
+  date_end = ""
   description = ""
 
 +++
