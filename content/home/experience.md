@@ -48,7 +48,7 @@ date_format = "Jan 2006"
 
   """
   
-  [[experience]]
+[[experience]]
   title = "Communication Development Intern "
   company = "UNICEF"
   company_url = ""
@@ -65,7 +65,7 @@ date_format = "Jan 2006"
 
  """
  
-  [[experience]]
+[[experience]]
   title = "Financial Intern"
   company = "FINANCE BUREAU"
   company_url = ""
@@ -80,7 +80,8 @@ date_format = "Jan 2006"
 
 
  """
-  [[experience]]
+ 
+[[experience]]
   title = "Intern, International Department  "
   company = "XINHUA NATIONAL NEWS AGENCY"
   company_url = ""
@@ -91,6 +92,7 @@ date_format = "Jan 2006"
   Responsibilities include:
   * Wrote, edited, and translated articles, gathered and sorted important international affairs and events, and produced over 30 global news articles. Achieved top-ranked news story for one published article, which received more than 300,000 views. 
   * Analyzed social media program status reports detailed key insights and popular content topics, and monitored results.
-
+  
+ """
 +++
 
