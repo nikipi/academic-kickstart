@@ -1,24 +1,13 @@
 ---
-title: Hello world
-date: '2018-05-09T01:05:00+02:00'
-lastmod: '2018-05-09T01:05:00+02:00'
-draft: false
-tags:
-  - academic
-  - android
-summary: A new post
-header:
-  caption: Unas burbujitas
-  image: /img/bubbles-wide.jpg
+widget: posts
+active: true
+date: '2018-05-09T00:00:00+02:00'
+title: Posts
+subtitle: Posts
+weight: '60'
+count: '5'
+tags_include: []
+tags_exclude: []
+list_format: '1'
 ---
-# Heading
 
-This is content
-
-> This is a quote
-
-```
-This is code
-```
-
-![An image](/img/portrait.jpg)
