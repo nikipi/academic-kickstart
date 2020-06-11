@@ -27,8 +27,8 @@ subtitle = ""
   description = "100%"  
   
  [[feature]]
-  icon = "table"
-  icon_pack = "fal"
+  icon = "file-csv"
+  icon_pack = "fas"
   name = "Data Analysis"
   description = "90%" 
   
