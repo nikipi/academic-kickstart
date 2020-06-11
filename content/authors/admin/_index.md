@@ -18,7 +18,7 @@ organizations:
   url: "https://public.wmo.int/en"
 
 # Short bio (displayed in user profile at end of posts)
-interest=[ 'Development Economics', 
+interest : [ 'Development Economics', 
 'Data-Driven Policy', 
 'Text as Data', 
 'Information Management'
