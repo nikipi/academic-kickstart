@@ -25,11 +25,11 @@ date_format = "Jan 2006"
   title = "Applied Data Science with Python - Level 2"
   url = ""
   certificate_url = "https://www.youracclaim.com/badges/1e8fd773-b6d5-49e1-9ebd-cbed25f41b59/linked_in_profile"
-  date_start = ""
+  date_start = "2020-03-01"
   date_end = ""
   description = ""
   
-"""  
+
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   date_start = "2020-03-24"
   date_end = ""
   description = ""
-"""
+
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
@@ -49,8 +49,8 @@ date_format = "Jan 2006"
   date_start = "2020-06-06"
   date_end = ""
   description = ""
-"""  
-  [[item]]
+  
+[[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
   title = "Applied Text Mining in Python"
@@ -59,7 +59,7 @@ date_format = "Jan 2006"
   date_start = "2020-05-12"
   date_end = ""
   description = ""
-"""  
+
 [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
@@ -69,5 +69,5 @@ date_format = "Jan 2006"
   date_start = "2020-03-21"
   date_end = ""
   description = ""
-"""
+
 +++
