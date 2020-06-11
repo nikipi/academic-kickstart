@@ -41,6 +41,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/nikipi
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/yulu-niki-pi-91560617a/
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -62,7 +65,7 @@ Graduated from Nanjing University, Economics Department, I work at WORLD METEORO
 
 I am interested in how institutional and financial innovations could make the difference on the country development and designing program to alleviate the scope of inequality.
 
-Also, I am working on building a society simulator which uses machine learning to mimic the working of the society and predict the impact of the policies.
+I am also working on building a society simulator which uses machine learning to mimic the working of the society and predict the impact of the policies.
 
 
 
