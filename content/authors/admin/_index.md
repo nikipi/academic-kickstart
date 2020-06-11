@@ -1,6 +1,6 @@
----
+
 # Display name
-title: Yulu (Niki) Pi
+name: Yulu (Niki) Pi
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-
+# role: Marine Microbial Ecologists
 
 # Organizations/Affiliations
 organizations:
@@ -18,10 +18,19 @@ organizations:
   url: "https://public.wmo.int/en"
 
 # Short bio (displayed in user profile at end of posts)
+# bio: Research in the Fuhrman Lab focuses on microbial biodiversity and how viruses, bacteria, archaea, protists, and primary producers interact to shape the network of microorganisms functioning in the marine environment.
+
+interests:
+- Development Economics
+- Data-Driven Policy
+- Text as Data
+- Information Management
+- Policy Evaluation
+
 
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
@@ -33,13 +42,27 @@ social:
   icon_pack: fab
   link="https://github.com/nikipi"
   
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ypi@ucdavis.edu"
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.  
+user_groups:
+- Researchers
+- Visitors
+---
 
 Graduated from Nanjing University, Economics Department, I work at WORLD METEOROLOGICAL ORGANIZATION currently.
 
 I am interested in how institutional and financial innovations could make the difference on the country development and designing program to alleviate the scope of inequality.
 
 Also, I am working on building a society simulator which uses machine learning to mimic the working of the society and predict the impact of the policies.
+
+
 
