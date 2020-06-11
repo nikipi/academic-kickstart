@@ -18,6 +18,7 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+"""
 [[item]]
   organization = "IBM"
   organization_url = "https://twitter.com/IBM?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
@@ -27,7 +28,7 @@ date_format = "Jan 2006"
   date_start = ""
   date_end = ""
   description = ""
-  
+"""  
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
@@ -37,7 +38,7 @@ date_format = "Jan 2006"
   date_start = "2020-03-24"
   date_end = ""
   description = ""
-
+"""
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
@@ -47,7 +48,7 @@ date_format = "Jan 2006"
   date_start = "2020-06-06"
   date_end = ""
   description = ""
-  
+"""  
   [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
@@ -57,7 +58,7 @@ date_format = "Jan 2006"
   date_start = "2020-05-12"
   date_end = ""
   description = ""
-  
+"""  
 [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
@@ -67,5 +68,5 @@ date_format = "Jan 2006"
   date_start = "2020-03-21"
   date_end = ""
   description = ""
-
+"""
 +++
