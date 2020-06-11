@@ -80,7 +80,7 @@ date_format = "Jan 2006"
 
 
  """
-[[experience]]
+  [[experience]]
   title = "Intern, International Department  "
   company = "XINHUA NATIONAL NEWS AGENCY"
   company_url = ""
