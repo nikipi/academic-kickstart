@@ -18,13 +18,13 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "90%"
+  description = "85%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "90%"  
   
  [[feature]]
   icon = "file-csv"
@@ -36,19 +36,19 @@ subtitle = ""
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
-  description = "60%"
+  description = "70%"
   
 [[feature]]
   icon = "photo-video"
   icon_pack = "fas"
   name = "Video Editting"
-  description = "60%"
+  description = "70%"
   
 [[feature]]
   icon = "medium"
   icon_pack = "fab"
   name = "Data Science Blog"
-  description = "30%"
+  description = "50%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
