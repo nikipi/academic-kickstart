@@ -21,16 +21,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-Education:
-BUSINESS SCHOOL, NANJING UNIVERSITY, NANJING, CHINA
-Bachelor of Economics Major in Economics
-GPA (5.0 Scale): 4.38 
-
-UNIVERSITY OF CALIFORNIA, DAVIS, CA, U.S.                                       APR 2019- NOV 2020
-Differential Equations: A+, Linear Algebra: A+, Intermediate Macroeconomics Theory: A+, Analysis of Econ Data: A+, Intermediate Microeconomics: A
-GPA (4.0 Scale): 3.763
-
-
 interests:
 - Development Economics
 - Data-Driven Policy
