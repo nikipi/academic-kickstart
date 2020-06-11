@@ -10,7 +10,8 @@ authors:
 superuser: true
 
 # Role/position
-# role: Marine Microbial Ecologists
+
+role: Curiosity & Persistence
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +19,7 @@ organizations:
   url: "https://public.wmo.int/en"
 
 # Short bio (displayed in user profile at end of posts)
-# bio: Research in the Fuhrman Lab focuses on microbial biodiversity and how viruses, bacteria, archaea, protists, and primary producers interact to shape the network of microorganisms functioning in the marine environment.
+bio: 
 
 interests:
 - Development Economics
@@ -37,7 +38,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:ypi@ucdavis.edu'  # For a direct email link, use "mailto:test@example.org".
-
 - icon: github
   icon_pack: fab
   link="https://github.com/nikipi"
