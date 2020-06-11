@@ -64,5 +64,33 @@ date_format = "Jan 2006"
   * Helped UNICEF to build connections with Chinese media for advocacy of UNICEF in China.
 
  """
+ 
+  [[experience]]
+  title = "Financial Intern"
+  company = "FINANCE BUREAU"
+  company_url = ""
+  location = "GUIZHOU, CHINA"
+  date_start = "2018-07-01"
+  date_end = "2018-09-01"
+  description = """
+  Responsibilities include:
+  * Built models based on correlation analysis and multi-factor analysis to detect the relationship between the urban information development index and development index of medical system and education system. 
+  * Conducted model selection and diagnostics to identify effective factors from hundreds of economic and market factors, including regional development fairness, and education penetration rate.
+  * Conducted economic impact analysis of economics & fiscal policies in local regions. Researched the impact of economic policy on local poverty alleviation and income distribution
+
+
+ """
+[[experience]]
+  title = "Intern, International Department  "
+  company = "XINHUA NATIONAL NEWS AGENCY"
+  company_url = ""
+  location = "BEIJING, CHINA"
+  date_start = "2018-01-01"
+  date_end = "2018-03-01"
+  description = """
+  Responsibilities include:
+  * Wrote, edited, and translated articles, gathered and sorted important international affairs and events, and produced over 30 global news articles. Achieved top-ranked news story for one published article, which received more than 300,000 views. 
+  * Analyzed social media program status reports detailed key insights and popular content topics, and monitored results.
 
 +++
+
