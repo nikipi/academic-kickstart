@@ -26,17 +26,29 @@ subtitle = ""
   name = "Statistics"
   description = "100%"  
   
+ [[feature]]
+  icon = "table"
+  icon_pack = "fal"
+  name = "Data Analysis"
+  description = "90%" 
+  
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
-  description = "20%"
+  description = "60%"
+  
+[[feature]]
+  icon = "photo-video"
+  icon_pack = "fas"
+  name = "Video Editting"
+  description = "60%"
   
 [[feature]]
   icon = "medium"
   icon_pack = "fab"
   name = "Data Science Blog"
-  description = "10%"
+  description = "30%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
