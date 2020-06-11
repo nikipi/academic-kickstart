@@ -1,8 +1,15 @@
 ---
-title: Hello world
-date: '2018-05-09T01:05:00+02:00'
-lastmod: '2018-05-09T01:05:00+02:00'
-draft: true
+title: Posts
 
- 
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view: 2
+
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
 ---
+
