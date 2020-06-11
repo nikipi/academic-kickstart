@@ -1,17 +1,16 @@
-
 +++
-title = "Read News, Read China, an NLP approach"
+title = ""Read News, Read China, an NLP approach"
 subtitle = ""
 
 date = ""
 lastmod = ""
 draft = false
 
-# Authors. Comma separated list, e.g. `["Yulu Pi"]`.
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Yulu Pi"]
 
 tags = ["NLP","Policy Tracking"]
-summary = "[Thanks to machine learning algorithms’ ability to interpret the massive text to the understandable message, tracking the polices change from the enormous volume of the news reports is feasible at this point. Here I present this case study utilizing the text of Network News Broadcast to discover the policy changes of China.](https://medium.com/@ypi_78836/read-news-read-china-an-nlp-approach-68fe07d1c53)!"
+summary = ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -37,4 +36,4 @@ summary = "[Thanks to machine learning algorithms’ ability to interpret the ma
 # Set captions for image gallery.
 
 +++
-
+Thanks to machine learning algorithms’ ability to interpret the massive text to the understandable message, tracking the polices change from the enormous volume of the news reports is feasible at this point. Here I present this case study utilizing the text of Network News Broadcast to discover the policy changes of China.
