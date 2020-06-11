@@ -18,7 +18,6 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-"""
 [[item]]
   organization = "IBM"
   organization_url = "https://twitter.com/IBM?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
