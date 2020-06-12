@@ -7,11 +7,6 @@ weight = 20  # Order that this section will appear in.
 
 title = "Bio"
 
-[[education.courses]]
-  course = ""
-  institution = "BUSINESS SCHOOL, NANJING UNIVERSITY, NANJING, CHINA"
-  year = 2015
-
 # Choose the user profile to display
 # This should be the username of a profile in your `content/authors/` folder.
 
