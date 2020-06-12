@@ -15,6 +15,7 @@ role: Curiosity & Persistence
 
 # Organizations/Affiliations
 organizations:
+
 - name: WORLD METEOROLOGICAL ORGANIZATION
   url: "https://public.wmo.int/en"
 
@@ -26,18 +27,6 @@ interests:
 - Data-Driven Policy
 - Text as Data
 - Information Management
-- Policy Evaluation
-
-education:
-  courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-
-
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -70,7 +59,7 @@ user_groups:
 - Visitors
 ---
 
-Graduated from Nanjing University, Economics Department, I work at WORLD METEOROLOGICAL ORGANIZATION currently.
+I work at WORLD METEOROLOGICAL ORGANIZATION currently.
 
 I am interested in how institutional and financial innovations could make the difference on the country development and designing program to alleviate the scope of inequality.
 
