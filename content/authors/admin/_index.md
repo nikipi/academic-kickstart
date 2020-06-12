@@ -28,6 +28,15 @@ interests:
 - Text as Data
 - Information Management
 
+education:
+  courses:
+  - course: Bachelor of Economics Major in Economics
+    institution: BUSINESS SCHOOL, NANJING UNIVERSITY, NANJING, CHINA                          
+    year: 2016
+  - course: Exchange Programe
+    institution: UNIVERSITY OF CALIFORNIA, DAVIS, CA, U.S. 
+    year: 2019
+ 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
