@@ -28,6 +28,15 @@ interests:
 - Information Management
 - Policy Evaluation
 
+education:
+  courses:
+  - course: Title course 1
+    institution: Name of Institution
+    year: 2012
+  - course: Title course 1
+    institution: Name of Institution
+    year: 2012
+
 
 
 # Social/Academic Networking
