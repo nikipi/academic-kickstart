@@ -30,10 +30,10 @@ interests:
 
 education:
   courses:
-  - course: Bachelor of Economics Major in Economics
+  - course: Bachelor of Economics 
     institution: BUSINESS SCHOOL, NANJING UNIVERSITY, NANJING, CHINA                          
     year: 2016
-  - course: Exchange Programe
+  - course: Exchange Programe, Bachelor of Economics
     institution: UNIVERSITY OF CALIFORNIA, DAVIS, CA, U.S. 
     year: 2019
  
