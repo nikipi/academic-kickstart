@@ -2,7 +2,7 @@
 title: Portfolio Risk Management
 summary: This project is contains almost the most basic and important concepts of Modern Portfolio Theory pioneered by Harry Markowitz
 tags:
-- Deep Learning
+- Data
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
