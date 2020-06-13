@@ -70,6 +70,8 @@ user_groups:
 
 I work at WORLD METEOROLOGICAL ORGANIZATION currently.
 
+Having spent significant time in rural areas in China, Sri Lanka, Thailand, and Zimbabwe, I have refined my interests to apply data science to tackle social issues, especially in impoverished areas.
+
 I am interested in how institutional and financial innovations could make the difference on the country development and designing program to alleviate the scope of inequality.
 
 I am also working on building a society simulator which uses machine learning to mimic the working of the society and predict the impact of the policies.
