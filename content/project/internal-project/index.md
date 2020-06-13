@@ -1,6 +1,6 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: i-Tech
+summary: IT knowledge should never be forgotten in the developing regions
 tags:
 - Social
 date: ""
