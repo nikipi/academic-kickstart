@@ -47,7 +47,7 @@ subtitle = ""
 [[feature]]
   icon = "medium"
   icon_pack = "fab"
-  name = "Data Science Blog"
+  name = "Blog"
   description = ""
 
 # Uncomment to use emoji icons.
