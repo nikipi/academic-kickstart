@@ -26,11 +26,11 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
+    name = "Social Good"
     tag = "Deep Learning"
   
   [[content.filter_button]]
-    name = "Other"
+    name = "Data Science"
     tag = "Demo"
 
 [design]
