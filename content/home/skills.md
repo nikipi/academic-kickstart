@@ -41,7 +41,7 @@ subtitle = ""
 [[feature]]
   icon = "photo-video"
   icon_pack = "fas"
-  name = "Video Editting"
+  name = "Video Editing"
   description = ""
   
 [[feature]]
