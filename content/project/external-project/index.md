@@ -9,6 +9,6 @@ date: ""
 external_link: https://www.unicef.org/zimbabwe/stories/family-learns-protect-itself-cholera
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: 
   focal_point: Smart
 ---
