@@ -27,11 +27,11 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "Social Work"
-    tag = "Social Good"
+    tag = "Social"
   
   [[content.filter_button]]
     name = "Data Science"
-    tag = "Data Science"
+    tag = "Data"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
