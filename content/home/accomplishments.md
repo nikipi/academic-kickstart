@@ -17,6 +17,7 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[item]]
   organization = "UC Davis "
   organization_url = ""
@@ -27,7 +28,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
   
-  [[item]]
+[[item]]
   organization = "China Scholarship Council"
   organization_url = ""
   title = "Chinese Government Scholarship"
@@ -37,7 +38,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
   
-   [[item]]
+ [[item]]
   organization = "Nanjing University"
   organization_url = ""
   title = "People’s Scholarship(academic merit-based scholarship)  "
