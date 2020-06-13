@@ -26,7 +26,7 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Social Good"
+    name = "Social Work"
     tag = "Social Good"
   
   [[content.filter_button]]
