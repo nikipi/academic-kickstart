@@ -70,5 +70,36 @@ date_format = "Jan 2006"
   date_start = "2020-03-21"
   date_end = ""
   description = ""
+  
+[[item]]
+  organization = "UC Davis"
+  organization_url = ""
+  title = "Academic Excellence"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-09-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "China Scholarship Council"
+  organization_url = ""
+  title = "Chinese Government Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-11-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Nanjing University"
+  organization_url = ""
+  title = "People’s Scholarship(academic merit-based scholarship)  "
+  url = ""
+  certificate_url = ""
+  date_start = "2017-11-01/2019-11-01"
+  date_end = ""
+  description = ""
+  
 
 +++
