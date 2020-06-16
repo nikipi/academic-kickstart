@@ -31,10 +31,10 @@ interests:
 education:
   courses:
   - course: Bachelor of Economics 
-    institution: BUSINESS SCHOOL, NANJING UNIVERSITY, NANJING, CHINA                          
+    institution: BUSINESS SCHOOL, NANJING UNIVERSITY, NANJING, CHINA  GPA (5.0 Scale): 4.38                        
     year: 2016
   - course: Exchange Programe, Bachelor of Economics
-    institution: UNIVERSITY OF CALIFORNIA, DAVIS, CA, U.S. 
+    institution: UNIVERSITY OF CALIFORNIA, DAVIS, CA, U.S.  GPA (4.0 Scale): 3.763
     year: 2019
  
 # Social/Academic Networking
