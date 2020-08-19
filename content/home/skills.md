@@ -49,6 +49,12 @@ subtitle = ""
   icon_pack = "fab"
   name = "Blog"
   description = ""
+  
+[[feature]]
+  icon = "js"
+  icon_pack = "fab"
+  name = "Javascript"
+  description = ""
 
 # Uncomment to use emoji icons.
 # [[feature]]
